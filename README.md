@@ -86,6 +86,20 @@ Program that:
 - Generates Fibonacci sequence
 - Uses looping and variable swapping
 
+## Mini Project — Utility Toolkit
+
+### 1. EMI Calculator
+Program that:
+- Calculates monthly EMI
+- Uses loan amount, interest rate, and tenure
+- Applies mathematical formulas
+
+### 2. Tax Calculator
+Program that:
+- Calculates income tax
+- Uses slab-based conditions
+- Displays tax amount
+
 ---
 
 ## Tools Used
