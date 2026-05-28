@@ -58,6 +58,22 @@ Program that:
 * Gives suggestions based on weather conditions
 * Uses multiple condition checks
 
+## Day 3
+
+### 5. Number Pattern Generator
+Program that:
+- Generates star patterns
+- Displays Pascal triangle
+- Prints prime numbers
+- Uses nested loops and conditions
+
+### 6. Production Counter System
+Program that:
+- Simulates factory production cycles
+- Tracks defective items
+- Stops when production target is reached
+- Calculates worker efficiency
+
 ---
 
 ## Tools Used
