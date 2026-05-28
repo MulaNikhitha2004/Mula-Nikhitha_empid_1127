@@ -74,6 +74,18 @@ Program that:
 - Stops when production target is reached
 - Calculates worker efficiency
 
+# Practice Programs
+
+### 1. Multiplication Table Generator
+Program that:
+- Generates multiplication tables
+- Uses loops for repeated calculations
+
+### 2. Fibonacci Series Generator
+Program that:
+- Generates Fibonacci sequence
+- Uses looping and variable swapping
+
 ---
 
 ## Tools Used
