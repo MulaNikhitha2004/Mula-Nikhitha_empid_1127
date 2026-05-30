@@ -7,14 +7,22 @@ I created these programs to improve my coding, logical thinking, and problem-sol
 
 Mula-Nikhitha_empid_1127
 
+## Repository Overview
+
+This repository contains Python assignments, practice programs, and mini projects completed as part of my Python learning journey. The programs cover fundamental programming concepts, problem-solving techniques, loops, conditional statements, functions, and basic project development.
+
 ## Topics Covered
 
-* Python Basics
+* Python Fundamentals
 * User Input Handling
 * Conditional Statements
+* Loops and Iterations
+* Functions
 * Arithmetic Operations
-* Logical Problem Solving
-* Git & GitHub Basics
+* Pattern Programming
+* Problem Solving
+* Mini Projects
+* Git & GitHub Version Control
 
 ---
 
@@ -108,6 +116,15 @@ Program that:
 
 ---
 
+## Skills Developed
+
+* Programming Logic
+* Problem Solving
+* Debugging
+* Code Organization
+* Version Control using Git
+* Project Documentation
+
 ## Tools Used
 
 * Python
@@ -119,9 +136,18 @@ Program that:
 
 ## Goal
 
-The main goal of this repository is to practice Python programming regularly and improve my development skills by solving different types of problems.
+The main goal of this repository is to strengthen my Python programming skills through regular practice, assignments, and mini projects. This repository reflects my progress in learning software development concepts and problem-solving techniques.
 
 ---
+
+## Future Learning Plans
+
+* Object-Oriented Programming (OOP)
+* File Handling
+* Exception Handling
+* Data Structures and Algorithms
+* Python Projects
+* Database Connectivity
 
 ## Author
 
