@@ -100,6 +100,12 @@ Program that:
 - Uses slab-based conditions
 - Displays tax amount
 
+### 3. Attendance Calculator
+Program that:
+- Calculates attendance percentage
+- Checks exam eligibility
+- Displays required attendance
+
 ---
 
 ## Tools Used
