@@ -94,6 +94,16 @@ Program that:
 - Generates Fibonacci sequence
 - Uses looping and variable swapping
 
+### 3. Temperature Converter
+Program that:
+- Converts Celsius to Fahrenheit
+- Uses functions and arithmetic operations
+
+### 4. Voting Eligibility Checker
+Program that:
+- Checks voting eligibility based on age
+- Uses functions and conditional statements
+
 ## Mini Project — Utility Toolkit
 
 ### 1. EMI Calculator
