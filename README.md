@@ -23,6 +23,9 @@ This repository contains Python assignments, practice programs, and mini project
 * Problem Solving
 * Mini Projects
 * Git & GitHub Version Control
+* Debugging
+* File Handling (JSON)
+* Command Line Applications
 
 ---
 
@@ -89,6 +92,8 @@ Program that:
 - Generates multiplication tables
 - Uses loops for repeated calculations
 
+## Day-4
+
 ### 2. Fibonacci Series Generator
 Program that:
 - Generates Fibonacci sequence
@@ -103,6 +108,8 @@ Program that:
 Program that:
 - Checks voting eligibility based on age
 - Uses functions and conditional statements
+
+## Day-5
 
 ## Mini Project — Utility Toolkit
 
@@ -124,6 +131,34 @@ Program that:
 - Checks exam eligibility
 - Displays required attendance
 
+
+## Day 6
+
+### 7. Debugging Assignment
+
+Program that:
+
+- Accepts marks of 5 students
+- Calculates Total Marks
+- Calculates Average Marks
+- Finds Highest Marks
+- Finds Lowest Marks
+- Demonstrates Runtime Error debugging
+- Demonstrates Logical Error debugging
+- Includes proper code documentation and comments
+
+### 8. Expense Tracker CLI Project
+
+Project that:
+
+- Adds new expenses
+- Views saved expenses
+- Deletes expenses
+- Calculates total spending
+- Stores data using JSON file handling
+- Uses a menu-driven Command Line Interface (CLI)
+- Persists data between program executions
+
 ---
 
 ## Skills Developed
@@ -134,6 +169,10 @@ Program that:
 * Code Organization
 * Version Control using Git
 * Project Documentation
+* File Handling
+* Error Detection and Debugging
+* JSON Data Management
+* CLI Application Development
 
 ## Tools Used
 
@@ -153,11 +192,11 @@ The main goal of this repository is to strengthen my Python programming skills t
 ## Future Learning Plans
 
 * Object-Oriented Programming (OOP)
-* File Handling
 * Exception Handling
 * Data Structures and Algorithms
-* Python Projects
 * Database Connectivity
+* Web Development using Python
+* Advanced Python Projects
 
 ## Author
 
