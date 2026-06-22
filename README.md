@@ -161,6 +161,35 @@ Project that:
 
 ---
 
+# Secure Calculator Pro
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Concepts Used
+
+- Exception Handling
+- Custom Exceptions
+- File Handling
+- Logging
+- Input Validation
+- OOP Basics
+- Menu Driven Programming
+
+## Files
+
+- secure_calculator.py
+- calculation_history.txt
+- error_log.log
+
+## How to Run
+
+python secure_calculator.py
+
 ## Skills Developed
 
 * Programming Logic
